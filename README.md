@@ -130,7 +130,7 @@ The following sanitized screenshot demonstrates restricted buyer metadata being 
 > Sensitive values and identifiers have been redacted for responsible disclosure purposes.
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/askiko/my_files/main/" height="80%" width="80%" alt="AD Domain service installation"/>
+<img src="https://raw.githubusercontent.com/askiko/my_files/main/bb_shots/burp_shot.png" height="80%" width="80%" alt="Sanitized BurpSuite Screenshot"/>
 <br />
 <br /></p>
 
@@ -157,7 +157,7 @@ Recommended mitigations included:
 * No evidence of malicious exploitation was observed during my testing
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/askiko/my_files/main/" height="80%" width="80%" alt="AD Domain service installation"/>
+<img src="https://raw.githubusercontent.com/askiko/my_files/main/bb_shots/activity.png" height="80%" width="80%" alt="Sanitized Bugcrowd Activity screenshot"/>
 <br />
 <br /></p>
 
